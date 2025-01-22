@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahembree&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ahembree&show_icons=true&rank_icon=github&hide=contribs" />
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahembree&layout=compact&langs_count=8&card_width=320" />
 
